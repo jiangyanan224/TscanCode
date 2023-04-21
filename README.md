@@ -1,12 +1,12 @@
 # **TscanCode** 
 
-![Release version](https://img.shields.io/badge/version-2.14.24-blue.svg)
+![Release version](https://img.shields.io/badge/version-2.15.02-blue.svg)
 
 ## A fast and accurate static analysis solution for C/C++, C#, Lua codes
 
 Tencent is pleased to support the open source community by making TscanCode available.
 
-Copyright (C) 2017 Tencent company and TscanCode Team. All rights reserved.
+Copyright (C) 2017-2022 Tencent company and TscanCode Team. All rights reserved.
 
 ## Introduction
 
@@ -16,11 +16,22 @@ TscanCode is devoted to help programmers to find out code defects at the very be
 * TscanCode is `easy to use`, It doesn't require strict compiling enviroment and one single command can make it work; 
 * TscanCode is `extensible`, you can implement your own checks with TscanCode.
 
+## Highlights in v2.15.02 (2022-04-28)
+* lua crash fix and more useful checkers
+
+## Highlights in v2.15.01 (2022-01-19)
+* lua5.4 support
+* a lot of bugfixes and new features
+
 ## Highlights in v2.14.24 (2018-02-24)
 * `Rule Package` was released on GUI, easier for rule customization;
 * GUI supports `marking false-positive errors` now.
 
 For other changes please refer to [change log](CHANGELOG.md).
+
+QQ group:  
+![TscanCode交流群群二维码](https://user-images.githubusercontent.com/2759146/165882694-5318874d-fb3d-4974-8b14-02c6beed6ffb.png)
+
 
 ## Compiling
 
